@@ -1,6 +1,6 @@
 # Komal Singh - Investment Banking Professional Portfolio
 
-Welcome to my professional portfolio website. This site showcases my expertise in investment banking, financial modeling, and corporate finance.
+Welcome to my professional portfolio website. This site showcases my expertise in investment banking, financial modeling & equity research .
 
 ## About This Portfolio
 
@@ -43,7 +43,7 @@ Advanced financial model for Bharat Electronics Limited featuring:
 
 ## Contact Information
 
-📧 **Email**: komalsingh.work@gmail.com  
+📧 **Email**: komaluk992@gmail.com  
 🔗 **LinkedIn**: [linkedin.com/in/komal-singh11](https://www.linkedin.com/in/komal-singh11/)
 
 ## Website Features
