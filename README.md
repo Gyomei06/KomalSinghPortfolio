@@ -4,7 +4,7 @@ Welcome to my professional portfolio website. This site showcases my expertise i
 
 ## About This Portfolio
 
-I am an **Aspiring Investment Banking Analyst** with building skills in:
+I am an **Aspiring Investment Banking Analyst** building skills in:
 - **Financial Modeling** - DCF Analysis, LBO Models, Valuation
 - **M&A Advisory** - Deal Structuring, Due Diligence, Integration
 - **Corporate Finance** - Capital Structure, Investment Analysis
