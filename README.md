@@ -4,7 +4,7 @@ Welcome to my professional portfolio website. This site showcases my expertise i
 
 ## About This Portfolio
 
-I am an **Investment Banking Professional** with extensive experience in:
+I am an **Aspiring Investment Banking Analyst** with building skills in:
 - **Financial Modeling** - DCF Analysis, LBO Models, Valuation
 - **M&A Advisory** - Deal Structuring, Due Diligence, Integration
 - **Corporate Finance** - Capital Structure, Investment Analysis
@@ -44,7 +44,6 @@ Advanced financial model for Bharat Electronics Limited featuring:
 ## Contact Information
 
 📧 **Email**: komalsingh.work@gmail.com  
-📱 **Phone**: +91 96500 29309  
 🔗 **LinkedIn**: [linkedin.com/in/komal-singh11](https://www.linkedin.com/in/komal-singh11/)
 
 ## Website Features
